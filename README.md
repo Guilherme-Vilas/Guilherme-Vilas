@@ -56,12 +56,18 @@ Sou especialista em **Inteligência Artificial Aplicada** e **Visão Computacion
 </div>
 
 ---
-
-### 📊 GitHub Stats
+### 🏆 Minhas Conquistas
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-Vilas&show_icons=true&theme=tokyonight&hide_border=true&cache_bust=1" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Vilas&layout=compact&theme=tokyonight&hide_border=true&cache_bust=1" height="150" alt="languages graph" />
-  </p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Guilherme-Vilas&theme=onedark&column=4&margin-w=15&margin-h=15" alt="Guilherme's Trophies" />
+  </a>
+  
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-Vilas&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Vilas&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </div>
