@@ -1,32 +1,41 @@
 <div align="center">
-  <h1>Olá, eu sou Guilherme Abiti! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <h1>Guilherme Abiti</h1>
   
   <h3>AI Engineer | Python Developer | Computer Vision Specialist</h3>
   
-  <p>Ex-COO transformando operações caóticas em sistemas autônomos com Python e IA.</p>
+  <p>
+    Ex-COO transformando operações caóticas em <b>sistemas autônomos</b>.<br>
+    Foco total em ROI através de código, IA e Automação.
+  </p>
 
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Guilherme-Vilas&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </p>
+  
   <a href="https://www.linkedin.com/in/guilherme-abiti/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:guilhermeabiti.v@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
 </div>
 
-<hr/>
+<br/>
 
 ### 🚀 Sobre Mim
 
-Sou especialista em **Inteligência Artificial Aplicada** e **Visão Computacional**. Meu foco não é apenas código, é ROI. Construo agentes e sistemas que se pagam sozinhos.
+Sou especialista em **Inteligência Artificial Aplicada** e **Visão Computacional**. Construo agentes e sistemas que se pagam sozinhos, eliminando ineficiências operacionais.
 
-- 🔭 **Atualmente:** Desenvolvendo *Arion Guardian* (Monitoramento Agrícola com Edge AI).
-- 🌱 **Estudando:** LLMs, RAG Avançado e Arquitetura de Software Escalável.
-- 💼 **Experiência:** Founder da Imperium.IA e ex-Head de Operações.
-- ⚡ **Superpoder:** Traduzir "businessês" para Python e vice-versa.
+- 🔭 **Building:** *Arion Guardian* (Monitoramento Agrícola com Edge AI).
+- 🌱 **Learning:** LLMs, RAG Avançado & Arquitetura de Software.
+- 💼 **Experience:** Founder @ Imperium.IA | Ex-Head de Operações.
+- ⚡ **Fact:** Traduzo problemas de negócio complexos para Python.
 
 ---
 
-### 🛠 Tech Stack & Ferramentas
+### 🛠 Tech Stack
 
 <div align="center">
 
@@ -50,7 +59,7 @@ Sou especialista em **Inteligência Artificial Aplicada** e **Visão Computacion
 
 ### 📊 GitHub Stats
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Vilas&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Vilas&layout=compact&theme=tokyonight&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Guilherme-Vilas&label=Profile%20Views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-Vilas&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Guilherme's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Vilas&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</p>
