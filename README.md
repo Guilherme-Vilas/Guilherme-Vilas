@@ -51,10 +51,8 @@ Sou especialista em **Inteligência Artificial Aplicada** e **Visão Computacion
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Guilherme-Vilas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Vilas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Vilas&layout=compact&theme=tokyonight"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-Vilas&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Vilas&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Guilherme-Vilas&label=Profile%20Views&color=0e75b6&style=flat)
