@@ -56,3 +56,5 @@ Sou especialista em **Inteligência Artificial Aplicada** e **Visão Computacion
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Vilas&layout=compact&theme=tokyonight"/>
   </a>
 </div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Guilherme-Vilas&label=Profile%20Views&color=0e75b6&style=flat)
