@@ -47,8 +47,8 @@ Sou especialista em **Inteligência Artificial Aplicada** e **Visão Computacion
 
 <br/>
 
-### 🐍 Minha Atividade (Cobrinha)
+### 🐍 Minha Atividade
 
 <div align="center">
-  <img src="https://github-readme-snake.vercel.app/api?username=Guilherme-Vilas&theme=dark&bg_color=0D1117&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Guilherme-Vilas/Guilherme-Vilas/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
