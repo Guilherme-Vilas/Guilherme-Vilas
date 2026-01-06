@@ -46,9 +46,3 @@ Sou especialista em **Inteligência Artificial Aplicada** e **Visão Computacion
 </div>
 
 <br/>
-
-### 🐍 Minha Atividade
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Guilherme-Vilas/Guilherme-Vilas/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
