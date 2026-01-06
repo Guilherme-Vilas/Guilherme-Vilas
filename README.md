@@ -38,36 +38,17 @@ Sou especialista em **Inteligência Artificial Aplicada** e **Visão Computacion
 ### 🛠 Tech Stack
 
 <div align="center">
-
-  **Core & AI**<br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
   
-  <br/>**Infra & Tools**<br/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-</div>
-
----
-### 🏆 Minhas Conquistas
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Guilherme-Vilas&theme=onedark&column=4&margin-w=15&margin-h=15" alt="Guilherme's Trophies" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,opencv,tensorflow,pytorch,docker,linux,git,bash,postgres,mysql,nextjs,react,ts,tailwind,vscode,idea&perline=8" />
   </a>
   
-  <br/><br/>
+</div>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-Vilas&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Vilas&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+<br/>
+
+### 🐍 Minha Atividade (Cobrinha)
+
+<div align="center">
+  <img src="https://github-readme-snake.vercel.app/api?username=Guilherme-Vilas&theme=dark&bg_color=0D1117&hide_border=true" />
 </div>
