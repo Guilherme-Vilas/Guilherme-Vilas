@@ -46,9 +46,3 @@ Sou especialista em **Inteligência Artificial Aplicada** e **Visão Computacion
 </div>
 
 <br/>
-
-### 🐍 Minha Atividade (Cobrinha)
-
-<div align="center">
-  <img src="https://github-readme-snake.vercel.app/api?username=Guilherme-Vilas&theme=dark&bg_color=0D1117&hide_border=true" />
-</div>
