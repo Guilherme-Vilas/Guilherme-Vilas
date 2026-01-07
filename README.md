@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <h1>Guilherme Abiti</h1>
+  <h1>Olá, sou o Guilherme Abiti</h1>
   
   <h3>AI Engineer | Python Developer | Computer Vision Specialist</h3>
   
