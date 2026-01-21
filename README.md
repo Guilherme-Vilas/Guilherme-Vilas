@@ -2,11 +2,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <h1>Guilherme Abiti</h1>
   
-  <h3>Senior AI Engineer | Python & Computer Vision Specialist</h3>
+  <h3>COO & Senior AI Solutions Architect | Logistics & Operations Specialist</h3>
   
   <p>
-    <b>Arquitetando o amanhã, entregando ROI hoje.</b><br>
-    Transformo operações complexas em sistemas autônomos de alta performance.
+    <b>Engenharia de Decisão para Operações de Alta Performance.</b><br>
+    Especialista em transformar gargalos operacionais em sistemas autônomos rentáveis.
   </p>
 
   <p>
@@ -23,35 +23,35 @@
 
 <br/>
 
-### 🎯 O que eu resolvo
+### 🎯 Proposta de Valor
 
-Diferente da média, eu não foco apenas em modelos; foco na **última milha da implementação**. Minha especialidade é sanear processos e implementar IA onde ela gera economia real.
+Minha atuação foca no **P&L (Profit and Loss)**. Desenvolvo arquiteturas de IA que não apenas processam dados, mas tomam decisões críticas de negócio em milissegundos, garantindo compliance e margem.
 
-- 🛠 **Sistemas Autônomos (APA):** Orquestração de agentes que executam, não apenas conversam.
-- 👁 **Visão Computacional (Edge AI):** Monitoramento e detecção de anomalias em tempo real com YOLO e OpenCV.
-- 🏗 **Engenharia de RAG:** Arquiteturas de recuperação de dados com foco em zero alucinação e governança.
-- 📈 **Visão de Negócio:** Background como Founder (Imperium.IA), garantindo que a tecnologia sirva ao lucro.
+- 🚛 **Orquestração Logística:** Implementação de engines de despacho automático com latência <100ms e auditoria de risco integrada.
+- 🤖 **Agentic Workflow Design:** Arquitetura de sistemas multi-agentes (LangGraph) para automação de processos complexos e governança de dados.
+- 👁 **Computer Vision (Edge to Cloud):** Detecção de anomalias e monitoramento de ativos em tempo real com foco em segurança operacional.
+- 💼 **Strategic Leadership:** Visão executiva como Founder (Imperium.IA) e ex-COO de operações multi-clínicas, alinhando Tech Stack aos KPIs de crescimento.
 
 ---
 
-### 🛠 Tech Stack & Ecosystem
+### 🛠 Tech Stack & High-Scale Ecosystem
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,opencv,tensorflow,pytorch,docker,linux,git,postgres,mysql,fastapi,django,aws,gcp,githubactions,mongodb,redis&perline=8" />
+    <img src="https://skillicons.dev/icons?i=py,opencv,fastapi,docker,linux,postgres,redis,kafka,aws,gcp,githubactions,mongodb,tensorflow,pytorch,git,mysql&perline=8" />
   </a>
 </div>
 
 ---
 
-### 💼 Projetos em Destaque
+### 🚀 Projetos de Impacto
 
-* **Arion Guardian:** Arquitetura de Visão Computacional para monitoramento agrícola de elite via Edge AI.
-* **Agentic Frameworks:** Desenvolvimento de sistemas RAG customizados para análise profunda de dados corporativos.
-* **Operações Inteligentes:** Automação de pipelines de dados e processos de back-end escaláveis.
+* **[Mobiis/Fretefy PoC] Engine de Despacho:** Motor de alocação geo-espacial com auditoria automática de P&L e Compliance de seguro (GR).
+* **Arion Guardian:** Sistema de Edge AI para monitoramento agrícola de alta precisão e análise de produtividade.
+* **Governance RAG Framework:** Implementação de sistemas de recuperação de informação com zero alucinação para auditoria jurídica e governamental.
 
 ---
 
 <div align="center">
-  <i>"IA sem estratégia é apenas custo. IA com processo é vantagem competitiva."</i>
+  <i>"Inteligência Artificial sem rigor operacional é apenas experimento. Com estratégia, é o motor do lucro."</i>
 </div>
